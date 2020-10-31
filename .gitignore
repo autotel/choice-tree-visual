@@ -1,3 +1,6 @@
 bin/**
 obj/**
 .vs/**
+.vs/visual_tree/v16/.suo
+.vs/visual_tree/v16/Browse.VC.db
+.vs/visual_tree/v16/Solution.VC.db
